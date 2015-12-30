@@ -4,7 +4,7 @@
              name="Repository Andrea399">
     <info compressed="false">https://github.com/Andrea399/Kodi/blob/master/addons.xml</info>
     <checksum>https://github.com/Andrea399/Kodi/blob/master/addons.xml.md5</checksum>
-    <datadir zip="true">https://github.com/Andrea399/Kodi/tree/master/plugin.video.salvo</datadir>
+    <datadir zip="true">https://github.com/Andrea399/Kodi</datadir>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>Repositry Andrea399.</summary>
