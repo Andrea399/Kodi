@@ -1,12 +1,13 @@
-<addon id="repository.Andrea399" name="Repository Andrea399" version="1.0" provider-name="Andrea399">
-  <extension point="xbmc.addon.repository" name="Repository Andrea399">
-    <info compressed="false">https://github.com/Andrea399/Kodi/blob/master/addons.xml</info>
-    <checksum>https://github.com/Andrea399/Kodi/blob/master/addons.xml.md5</checksum>
-    <datadir zip="true">https://github.com/Andrea399/Kodi</datadir>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>Repository Andrea399.</summary>
-    <description>Repository per add-on Kodi</description>
-    <platform>all</platform>
-  </extension>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.Andrea399" name="Andrea399's KODI Addons" version="1.0" provider-name="Andrea399 [a.sant@serielsrl.it]">
+	<extension point="xbmc.addon.repository" name="Andreas399's KODI Addon Repository">
+		<info compressed="false">http://github.com/Andrea399/Kodi/raw/master/addons.xml</info>
+		<checksum>http://github.com/Andrea399/Kodi/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/Andrea399/Kodi</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install Andrea399's Addons</summary>
+		<description>Download and install addons by Andrea399</description>
+		<platform>all</platform>
+	</extension>
 </addon>
