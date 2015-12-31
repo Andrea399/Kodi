@@ -3,7 +3,7 @@
 	<extension point="xbmc.addon.repository" name="Andreas399's KODI Addon Repository">
 		<info compressed="false">http://github.com/Andrea399/Kodi/raw/master/addons.xml</info>
 		<checksum>http://github.com/Andrea399/Kodi/raw/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://github.com/Andrea399/Kodi/raw/master/repo</datadir>
+		<datadir zip="true">http://github.com/Andrea399/Kodi</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Install Andrea399's Addons</summary>
