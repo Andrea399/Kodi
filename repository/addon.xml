@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.Andrea399" name="Repository Andrea399" version="1.0" provider-name="Andrea399">
   <extension point="xbmc.addon.repository" name="Repository Andrea399">
     <info compressed="false">https://github.com/Andrea399/Kodi/blob/master/addons.xml</info>
